@@ -52,7 +52,7 @@ int Car::getPower() const
 
 float Car::getPrice() const
 {
-	return this->power;
+	return this->price;
 }
 
 void Car::printInfo() const
